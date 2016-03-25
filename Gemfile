@@ -13,6 +13,10 @@ gem 'figaro'
 gem 'devise'
 gem 'milia'
 
+#add boostrap to application
+gem 'twitter-bootstrap-rails'
+gem 'devise-bootstrap-views'
+
 # Use Uglifier as compressor for JavaScript assets
 gem 'uglifier', '>= 1.3.0'
 # Use CoffeeScript for .coffee assets and views
