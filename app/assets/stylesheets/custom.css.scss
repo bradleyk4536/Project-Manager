@@ -27,7 +27,7 @@
 
 .nav.navbar-right {
 
-	padding-bottom: 10px;
+//	padding-bottom: 10px;
 
 	padding-top: 5px;
 
@@ -149,4 +149,13 @@ padding-left: 15px;
 
 .no-right-padding {
 	padding-right: 0 !important;
+}
+
+.table tr td {
+	a.main_link {
+		color: #428bca;
+	}
+	a.main_link:hover {
+		background: none;
+	}
 }
