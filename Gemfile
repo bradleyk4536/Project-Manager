@@ -12,6 +12,7 @@ gem 'sass-rails', '~> 5.0'
 gem 'figaro'
 gem 'devise'
 gem 'milia'
+gem 'aws-sdk'
 
 #add boostrap to application
 gem 'twitter-bootstrap-rails'
