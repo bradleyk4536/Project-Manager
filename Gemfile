@@ -13,6 +13,7 @@ gem 'figaro'
 gem 'devise'
 gem 'milia'
 gem 'aws-sdk'
+gem 'stripe'
 
 #add boostrap to application
 gem 'twitter-bootstrap-rails'
